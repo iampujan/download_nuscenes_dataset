@@ -1,6 +1,7 @@
 # 🛻 NuScenes Dataset Downloader
 
-This repository provides scripts to automate the download of the [nuScenes dataset](https://www.nuscenes.org/) by [Motional](https://www.motional.com/), with a focus on modularity and extensibility for future expansions.
+This repository provides scripts to automate the download of the [nuScenes dataset](https://www.nuscenes.org/) by [Motional](https://www.motional.com/), with a focus on modularity and extensibility for future expansions. 
+Please use it responsibly and solely for educational and research purposes.
 
 ---
 
